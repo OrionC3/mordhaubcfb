@@ -1,10 +1,7 @@
 # Server **BCFB**
 ## Welcome ! **Duel server. FFA in wood zone !**
-### Heading level 3 **Bolded text**
-#### Heading level 4 **Bolded text**
 
-
-**BELGIUM/FRANCE and ENGLISH welcome !**
+**BELGIUM/FRANCE and ENGLISH welcome (and other :) ) !**
 ***Team BCFB - Brigade de combat Franco Belge (Arma 3)***
 
 <a id="Discord link - BCFB (soon)">https://discord.gg/</>
@@ -17,7 +14,7 @@
 - Wood zone
 - If there are NOBLES ! (server/admin annoucement)
 - If the admins decide ! (server/admin annoucement)
-- Support
+- Support: Discord
 
 **Fun server**
 * Events
