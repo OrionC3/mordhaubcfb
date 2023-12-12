@@ -23,6 +23,8 @@
 
 **EVENTS**
 
+*Nobles*
+
 **How nobles work :
 - Manual player selection by moderator or admin
 OR
@@ -40,12 +42,20 @@ Event announced by an admin:
 3) Protect nobles
 4) Destroy ramparts and kill nobles
 
-**PARKOUR**
+*PARKOUR*
 
 The admins will make some elements appear, and you'll have to climb them. If you fall, you'll have to start all over again.
 The first person to complete the parkour wins an in-game reward (to be defined).
 It's forbidden to kill other players doing the parkour (even if they're in the FFA zone).
 Using game bugs is forbidden and will be penalized (kick or ban).
+
+*TEAM DEATMATCH*
+
+If the server is in team deathmatch mode, it's possible for admins to create events:
+- gunfire
+- each one its gun
+- protect your noble (2 nobles in each team, and the first team to kill the other noble wins (verified by an admin).
+
 
 *Server By Coulou | Orion - Team BCFB*
 
