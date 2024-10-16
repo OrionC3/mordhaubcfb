@@ -1,15 +1,15 @@
 # Server **BCFB**
 ## Welcome ! **Duel server. FFA in wood zone !**
 
-**BELGIUM/FRANCE and ENGLISH welcome (and other :) ) !**
+**BELGIAN and ENGLISH welcome (and other :) ) !**
 ***Team BCFB - Brigade de combat Franco Belge (Arma 3)***
-
+**PSay help for command list**
 <a id="Discord link - BCFB (soon)">https://discord.gg/</>
 
 **Rules:**
 
 1. Play fun
-2. Admin = Friends !
+2. Admin's (Coulou and Co) = Friends !
 3. FFA
 - Wood zone
 - If there are NOBLES ! (server/admin annoucement)
